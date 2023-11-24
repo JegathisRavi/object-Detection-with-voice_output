@@ -12,5 +12,5 @@ $ cd object-detection-with-voice-feedback
 $ pip install -r requirements.txt
 
 # 3. Run!
-$ python v2.py
+$ python main.py
 
